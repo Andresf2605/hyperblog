@@ -1,7 +1,8 @@
 body {
+    background-color: bisque;
     text-align: center;
     color: #333;
-    font-family: "Arial";
+    font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -11,6 +12,6 @@ body {
     width: 70%;
     padding: 1em;
     margin: 0 auto;
-    border: 1px solid #DDD;
+    border: 3px solid #333;
     text-align: left;
 }
