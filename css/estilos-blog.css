@@ -37,3 +37,10 @@
             #post {
                 padding: 1em;
             }
+            
+            #footer {
+                text-align: center;
+                background-color: slategrey;
+                font-size: 20px;
+                padding: 0.5em;
+            }
